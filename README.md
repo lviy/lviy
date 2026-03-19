@@ -1,12 +1,10 @@
 ## Hi! Welcom to my Github profile! 👋
- <br>
 I am Xuanrui Liu.  <br>
 🏫 Learning in USTC school of software engineering.  <br>
 🔭 TeleAI(intern) 2026.1 ~ NOW  <br>
 😄 In spare time I would like to watch anime and play rhythm game.   <br>
 
 ## How to reach me? 🤔
- <br>
 📫 lviyptilopsis@gmail.com  <br>
 
 <!--
