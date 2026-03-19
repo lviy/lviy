@@ -1,13 +1,13 @@
 ## Hi! Welcom to my Github profile! 👋
-
-I am Xuanrui Liu. 
-🏫 Learning in USTC school of software engineering.
-🔭 TeleAI(intern) 2026.1 ~ NOW
-😄 In spare time I would like to watch anime and play rhythm game. 
+ <br>
+I am Xuanrui Liu.  <br>
+🏫 Learning in USTC school of software engineering.  <br>
+🔭 TeleAI(intern) 2026.1 ~ NOW  <br>
+😄 In spare time I would like to watch anime and play rhythm game.   <br>
 
 ## How to reach me? 🤔
-
-📫 lviyptilopsis@gmail.com
+ <br>
+📫 lviyptilopsis@gmail.com  <br>
 
 <!--
 **lviy/lviy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
