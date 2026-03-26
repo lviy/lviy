@@ -1,7 +1,7 @@
 ## Hi! Welcom to my Github profile! 👋
 I am Xuanrui Liu.  <br>
 🏫 Learning in USTC school of software engineering.  <br>
-🌱 I’m interested in RL Infrastructure, Inference Acceleration, Training Acceleration, High Performance Calculation ... (But I'm a newbie now!) <br>
+🌱 I’m interested in RL Infrastructure, Inference Acceleration, Training Acceleration, High Performance Computing ... (But I'm a newbie now!) <br>
 🔭 Work Experience <br>
 - TeleAI📞 2026.1 ~ NOW 
   
