@@ -4,6 +4,7 @@ I am Xuanrui Liu.  <br>
 🌱 I’m interested in RL Infrastructure, Inference Acceleration, Training Acceleration, High Performance Computing ... (But I'm a newbie now!) <br>
 🔭 Work Experience <br>
 Now at Tencent WeLM, formerly at TeleAI
+
 😄 In spare time I would like to watch anime and play rhythm game.   <br>
 
 
