@@ -1,5 +1,5 @@
 ## Hi! There 👋
-I am Xuanrui Liu.  Learning in USTC school of software engineering.  Now at Tencent WeLM, formerly at TeleAI. I’m interested in RL Infrastructure.  <br>
+I am Xuanrui Liu.  Learning in USTC school of software engineering.  I'm currently at Tencent WeLM, formerly at TeleAI. I’m interested in RL Infrastructure.  <br>
 
 😄 In spare time I would like to watch anime and play rhythm game.   <br>
 
