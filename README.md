@@ -1,9 +1,5 @@
-## Hi! Welcom to my Github profile! 👋
-I am Xuanrui Liu.  <br>
-🏫 Learning in USTC school of software engineering.  <br>
-🌱 I’m interested in RL Infrastructure, Inference Acceleration, Training Acceleration, High Performance Computing ... (But I'm a newbie now!) <br>
-🔭 Work Experience <br>
-Now at Tencent WeLM, formerly at TeleAI
+## Hi! There 👋
+I am Xuanrui Liu.  Learning in USTC school of software engineering.  Now at Tencent WeLM, formerly at TeleAI. I’m interested in RL Infrastructure.  <br>
 
 😄 In spare time I would like to watch anime and play rhythm game.   <br>
 
